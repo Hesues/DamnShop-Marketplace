@@ -33,11 +33,12 @@ For clients interested in purchasing the DamnShop pre-made marketplace, we offer
 
 ## Screenshots
 
-<img width="493" height="895" alt="mobile-1" src="https://github.com/user-attachments/assets/d7259ecb-f756-4978-949d-54a0df1e4e94" />
-<img width="493" height="895" alt="mobile-2" src="https://github.com/user-attachments/assets/31d778de-0400-4f03-b1e9-a04f9cc92ef7" />
-<img width="493" height="895" alt="mobile-3" src="https://github.com/user-attachments/assets/7996f1bf-e341-45a0-857c-e7869015fbe5" />
-<img width="1918" height="972" alt="desktop-1" src="https://github.com/user-attachments/assets/731a1d85-54ef-49ac-b3d2-79510443216f" />
-<img width="1918" height="972" alt="desktop-2" src="https://github.com/user-attachments/assets/29143ea1-fbea-4c33-a3f0-6a81f0d86119" />
+<img width="1280" height="651" alt="image" src="https://github.com/user-attachments/assets/d0df8dbf-8072-4e3b-9b56-d95090444efb" />
+<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/83c3abd7-d721-4d1d-a502-fbc5322ba505" />
+<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/c076bf1f-6c39-4e66-b0e3-4e3d18cdc4da" />
+<img width="1280" height="651" alt="image" src="https://github.com/user-attachments/assets/c635233a-0543-4fb0-9bfe-9861857018c0" />
+<img width="1280" height="651" alt="image" src="https://github.com/user-attachments/assets/ca1aa51a-71e3-4e36-bce6-0d06c7e4a7c5" />
+<img width="1280" height="646" alt="image" src="https://github.com/user-attachments/assets/1f39ace1-a514-44f7-9a53-dc36f34e694f" />
 
 ---
 
