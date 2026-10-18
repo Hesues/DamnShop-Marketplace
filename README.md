@@ -33,19 +33,11 @@ For clients interested in purchasing the DamnShop pre-made marketplace, we offer
 
 ## Screenshots
 
-Replace the lines below with your own images (drag them into the README editor on GitHub to get hosted URLs).
-
-<img width="493" height="895" alt="mobile-1" src="<img width="1280" height="651" alt="image" src="https://github.com/user-attachments/assets/d7259ecb-f756-4978-949d-54a0df1e4e94" />
-" />
-<img width="493" height="895" alt="mobile-2" src="<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/31d778de-0400-4f03-b1e9-a04f9cc92ef7" />
-" />
-<img width="493" height="895" alt="mobile-3" src="<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/7996f1bf-e341-45a0-857c-e7869015fbe5" />
-" />
-
-<img width="1918" height="972" alt="desktop-1" src="<img width="1280" height="646" alt="image" src="https://github.com/user-attachments/assets/731a1d85-54ef-49ac-b3d2-79510443216f" />
-" />
-<img width="1918" height="972" alt="desktop-2" src="<img width="1280" height="651" alt="image" src="https://github.com/user-attachments/assets/29143ea1-fbea-4c33-a3f0-6a81f0d86119" />
-" />
+https://github.com/user-attachments/assets/d7259ecb-f756-4978-949d-54a0df1e4e94
+https://github.com/user-attachments/assets/31d778de-0400-4f03-b1e9-a04f9cc92ef7
+https://github.com/user-attachments/assets/7996f1bf-e341-45a0-857c-e7869015fbe5
+https://github.com/user-attachments/assets/731a1d85-54ef-49ac-b3d2-79510443216f
+https://github.com/user-attachments/assets/29143ea1-fbea-4c33-a3f0-6a81f0d86119
 
 ---
 
